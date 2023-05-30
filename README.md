@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @danines (Dan)
+- 👋 Hi, I’m Dan
 - 👀 I’m interested in many nerdy things, and tea, I love tea
-- 🌱 I’m currently learning everything really, always more to learn
-- 💞️ I’m looking to collaborate on Pi Zero 2 issues
-- 📫 How to reach me twitter
+- 🌱 Currently learning everything really, always more to learn
+- 📫 Twitter: @Strongest_Geek
 
 <!---
 danines/danines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
